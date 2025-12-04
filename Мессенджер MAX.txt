@@ -10,14 +10,14 @@
   </head>
   <body>
     <h1 align=center>
-      Это (не)оффициальная страница мессеннджера MAX
+      Это (не)официальная страница мессенджера MAX
     </h1>
     <h2 align=center>
       здесь вы можете скачать мессенджер MAX
     </h2>
     <h5 align=center>
       Этот сайт сделан лишь в шуточных целях и не претендует на авторское право в сторону 
-      <a href="https://www.rustore.ru/catalog/developer/xashx42f">оффициальных издателей</a>
+      <a href="https://www.rustore.ru/catalog/developer/xashx42f">официальных издателей</a>
        мессенджера MAX
     </h5>
     <div align=center>
