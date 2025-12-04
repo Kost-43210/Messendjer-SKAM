@@ -1,7 +1,7 @@
 <html>
   <head>
     <title>
-      Скачать мессенджер MAX
+      РЎРєР°С‡Р°С‚СЊ РјРµСЃСЃРµРЅРґР¶РµСЂ MAX
     </title>
     <style>
       body{ background-color:#120723;color:DarkGrey; }
@@ -10,29 +10,29 @@
   </head>
   <body>
     <h1 align=center>
-      Это (не)оффициальная страница мессеннджера MAX
+      Р­С‚Рѕ (РЅРµ)РѕС„С„РёС†РёР°Р»СЊРЅР°СЏ СЃС‚СЂР°РЅРёС†Р° РјРµСЃСЃРµРЅРЅРґР¶РµСЂР° MAX
     </h1>
     <h2 align=center>
-      здесь вы можете скачать мессенджер MAX
+      Р·РґРµСЃСЊ РІС‹ РјРѕР¶РµС‚Рµ СЃРєР°С‡Р°С‚СЊ РјРµСЃСЃРµРЅРґР¶РµСЂ MAX
     </h2>
     <h5 align=center>
-      Этот сайт сделан лишь в шуточных целях и не претендует на авторское право в сторону 
-      <a href="https://www.rustore.ru/catalog/developer/xashx42f">оффициальных издателей</a>
-       мессенджера MAX
+      Р­С‚РѕС‚ СЃР°Р№С‚ СЃРґРµР»Р°РЅ Р»РёС€СЊ РІ С€СѓС‚РѕС‡РЅС‹С… С†РµР»СЏС… Рё РЅРµ РїСЂРµС‚РµРЅРґСѓРµС‚ РЅР° Р°РІС‚РѕСЂСЃРєРѕРµ РїСЂР°РІРѕ РІ СЃС‚РѕСЂРѕРЅСѓ 
+      <a href="https://www.rustore.ru/catalog/developer/xashx42f">РѕС„С„РёС†РёР°Р»СЊРЅС‹С… РёР·РґР°С‚РµР»РµР№</a>
+       РјРµСЃСЃРµРЅРґР¶РµСЂР° MAX
     </h5>
     <div align=center>
-      <img src="потом поменяю" width="90%">
+      <img src="MAX image.jpg" width="90%">
     </div>
     <h1>
       <b align=center>
-        Скачать можно перейдя по 
-        <a href="https://www.rustore.ru/catalog/app/ru.oneme.app" align=center>этой</a>
-         ссылке
+        РЎРєР°С‡Р°С‚СЊ РјРѕР¶РЅРѕ РїРµСЂРµР№РґСЏ РїРѕ 
+        <a href="https://www.rustore.ru/catalog/app/ru.oneme.app" align=center>СЌС‚РѕР№</a>
+         СЃСЃС‹Р»РєРµ
       </b>
     </h1>
     <div align=center>
       <h6 style=color:DimGrey;>
-        ЪуЪ"Мессенджер СКАМ"
+        РЄСѓРЄ"РњРµСЃСЃРµРЅРґР¶РµСЂ РЎРљРђРњ"
       </h6>
     </div>
   </body>
